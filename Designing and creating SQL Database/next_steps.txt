@@ -1,0 +1,12 @@
+To extend this project, you might like to consider one or more of the following:
+
+Transform the the dates into a SQLite compatible format.
+Extract the line scores into innings level data in a new table.
+Create views to make querying stats easier, eg:
+Season level stats.
+All time records.
+Supplement the database using new data, for instance:
+Add data from retrosheet game logs for years after 2016.
+Source and add missing pitcher information.
+Add player level per-game stats.
+Source and include base coach data.
