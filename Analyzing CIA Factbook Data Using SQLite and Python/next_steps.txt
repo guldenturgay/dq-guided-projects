@@ -1,0 +1,6 @@
+hat's it for the guided steps. Here are some next steps for you to explore:
+
+Which countries have the highest population density?
+Population density is the ratio of population to land area. Compare your results with those from Wikipedia.
+Generate a histogram of population densities.
+Which countries have the highest ratios of water to land? Which countries have more water than land?

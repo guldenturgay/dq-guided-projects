@@ -1,0 +1,6 @@
+These are a few next steps to consider:
+
+Customize your graphs more by reproducing almost completely the FiveThirtyEight style. You can take a look at this tutorial if you want to do that.
+Improve your project from a stylistical point of view by following the guidelines discussed in this style guide.
+Use the two samples to compare ratings of different movie ratings aggregators and recommend what's the best website to check for a movie rating. There are many approaches you can take here — you can take some inspiration from this article.
+Collect recent movie ratings data and formulate your own research questions. You can take a look at this blog post to learn how to scrape movie ratings for IMDB and Metacritic.

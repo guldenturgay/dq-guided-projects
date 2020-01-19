@@ -1,0 +1,11 @@
+You can also continue working on this project. Next steps include:
+
+Finding other criteria for choosing the best market.
+Analyzing other data sets:
+freeCodeCamp's 2016 New Coders Survey.
+https://github.com/freeCodeCamp/2016-new-coder-survey
+
+Stack Overflow 2018 Developer Survey.
+https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
+
+Improving your project from a stylistical point of view by following the guidelines discussed in this style guide.

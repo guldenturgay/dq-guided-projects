@@ -1,0 +1,5 @@
+These are a few next steps you could take:
+
+Analyze the frequency table for the Genre column of the Google Play data set, and see whether you can find useful patterns.
+Assume we could also make revenue via in-app purchases and subscriptions, and try to find out which genres seem to be liked the most by users — you could examine app ratings here.
+Refine your project using our data science project style guide.
